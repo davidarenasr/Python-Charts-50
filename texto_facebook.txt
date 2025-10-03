@@ -1,0 +1,21 @@
+🎥 Nuevo video disponible: Aprende a graficar con Python y Matplotlib 📊
+¡Primeros pasos con gráficos profesionales, fáciles y útiles para todos!
+
+🚀 ¿Te interesa visualizar datos y entender mejor lo que dicen?
+Este video es parte del curso "100 gráficos con Matplotlib", y muy pronto estará completo en Udemy 🎓. ¡Desde lo más básico hasta niveles avanzados!
+
+📌 En la próxima unidad, desarrollaremos Gráficos con NumPy y Operaciones Básicas, desarrolla graficos avanzados.
+
+💡 Aprender a visualizar datos es una de las habilidades más importantes hoy en día:
+
+Te ayuda a tomar mejores decisiones
+
+A comprender la realidad de forma visual
+
+Y a compartir conocimiento con claridad
+
+🧠 ¡No necesitas ser experto! Solo ganas de aprender paso a paso.
+
+🔗 Mira el video y sígueme si quieres avanzar conmigo en este camino de la ciencia, los datos y el pensamiento visual.
+
+#Python #Matplotlib #VisualizaciónDeDatos #CursoUdemy #AprendeConmigo #DatosImportan #EducaciónDigital
